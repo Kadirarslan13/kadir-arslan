@@ -1,0 +1,29 @@
+{
+  "name": "kadir-arslan",
+  "version": "1.0.0",
+  "description": "Bu bir deneme projesidir",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "kadir": "echo 'Benim adım Kadir'",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "deneme",
+    "paket"
+  ],
+  "author": "Kadir Arslan",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^7.4.5",
+    "nodemailer": "^6.9.4",
+    "simple-is": "^0.2.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^5.1.4"
+  },
+  "repository": {
+    "type":"git",
+    "url":"https://github.com/Kadirarslan13/kadir-arslan.git"
+  }
+}
